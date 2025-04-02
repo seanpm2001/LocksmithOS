@@ -2,10 +2,10 @@
 //// LocksmithOS_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all LocksmithOS project repositories by @seanpm2001
-//// As of 2025, Wednesday, March 5th
+//// As of 2025, Tuesday, April 1st
 
 //// ----------------------------------------------------- \\\\
-//// LocksmithOS Project (33)
+//// LocksmithOS Project (34)
 //// ----------------------------------------------------- \\\\
 
 //// LocksmithOS Core (1)
@@ -16,11 +16,12 @@ https://github.com/seanpm2001/LocksmithOS
 
 https://github.com/seanpm2001/LocksmithOS_Docs
 
-//// LocksmithOS Passkey/Passkeys (3)
+//// LocksmithOS Passkey/Passkeys (4)
 
 https://github.com/seanpm2001/LocksmithOS_Passkey
 https://github.com/seanpm2001/LocksmithOS_Passkey_Docs
 https://github.com/seanpm2001/LocksmithOS_Passkeys
+https://github.com/seanpm2001/LocksmithOS_Passkeys_Docs
 
 //// LocksmithOS USB (Universal Serial Bus) (2)
 
@@ -93,8 +94,8 @@ https://github.com/seanpm2001/LocksmithOS_Addons_Johnny_John-the-Ripper
 https://github.com/seanpm2001/LocksmithOS_Addons_Johnny_John-the-Ripper_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (LocksmithOS): 33
-//// 1+1+3+2+2+2+2+2+2+2+2+2+2+2+2+2+2=33
+//// Repo count (LocksmithOS): 34
+//// 1+1+4+2+2+2+2+2+2+2+2+2+2+2+2+2+2=34
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -106,15 +107,15 @@ https://github.com/seanpm2001/LocksmithOS_Addons_Johnny_John-the-Ripper_Docs
 //// Repo count (See also): 0
 //// 0+0=0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 33
-//// 33+0=33
+//// Total repo count: 34
+//// 34+0=34
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 1 (2025, Wednesday, March 5th at 06:02 pm PST)
-//// Line count (including blank lines and compiler line): 121
+//// File version: 2 (2025, Tuesday, April 1st at 05:13 pm PST)
+//// Line count (including blank lines and compiler line): 122
 //// ----------------------------------------------------- \\\\
 
 //// End of file
